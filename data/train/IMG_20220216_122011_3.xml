@@ -1,0 +1,26 @@
+<annotation>
+	<folder>200</folder>
+	<filename>IMG_20220216_122011_3.jpg</filename>
+	<path>C:\Users\gonca\Desktop\200\IMG_20220216_122011_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1102</xmin>
+			<ymin>1360</ymin>
+			<xmax>2109</xmax>
+			<ymax>1516</ymax>
+		</bndbox>
+	</object>
+</annotation>

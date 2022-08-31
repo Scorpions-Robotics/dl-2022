@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yeni klasör</folder>
+	<filename>IMG_20220216_122315_2.jpg</filename>
+	<path>C:\Users\Koray Özcan\Desktop\Yeni klasör\IMG_20220216_122315_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1216</xmin>
+			<ymin>1686</ymin>
+			<xmax>2306</xmax>
+			<ymax>1919</ymax>
+		</bndbox>
+	</object>
+</annotation>

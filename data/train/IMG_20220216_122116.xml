@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fullhoops</folder>
+	<filename>IMG_20220216_122116.jpg</filename>
+	<path>C:\Users\egeba\OneDrive\Masaüstü\fullhoops\IMG_20220216_122116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1377</xmin>
+			<ymin>1425</ymin>
+			<xmax>2077</xmax>
+			<ymax>1562</ymax>
+		</bndbox>
+	</object>
+</annotation>

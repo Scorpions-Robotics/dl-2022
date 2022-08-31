@@ -1,0 +1,26 @@
+<annotation>
+	<folder>70 eklenecek last 145</folder>
+	<filename>IMG_20220216_122309_1.jpg</filename>
+	<path>E:\70 eklenecek last 145\IMG_20220216_122309_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1093</xmin>
+			<ymin>1517</ymin>
+			<xmax>2191</xmax>
+			<ymax>1761</ymax>
+		</bndbox>
+	</object>
+</annotation>
