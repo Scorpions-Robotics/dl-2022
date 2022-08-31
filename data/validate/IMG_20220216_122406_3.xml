@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Yeni klasör</folder>
+	<folder>validate</folder>
 	<filename>IMG_20220216_122406_3.jpg</filename>
-	<path>C:\Users\Koray Özcan\Desktop\Yeni klasör\IMG_20220216_122406_3.jpg</path>
+	<path>data/validate/IMG_20220216_122406_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

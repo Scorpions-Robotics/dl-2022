@@ -1,7 +1,7 @@
 <annotation>
-	<folder>200</folder>
+	<folder>train</folder>
 	<filename>IMG_20220216_121946_3.jpg</filename>
-	<path>C:\Users\gonca\Desktop\200\IMG_20220216_121946_3.jpg</path>
+	<path>data/train/IMG_20220216_121946_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
