@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0-525 deniz</folder>
+	<filename>20220923_195353.jpg</filename>
+	<path>C:\Users\gonca\Desktop\0-525 deniz\20220923_195353.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>867</xmin>
+			<ymin>1019</ymin>
+			<xmax>1849</xmax>
+			<ymax>1216</ymax>
+		</bndbox>
+	</object>
+</annotation>

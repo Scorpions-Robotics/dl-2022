@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1051-1575 berkin</folder>
+	<filename>20220923_202654.jpg</filename>
+	<path>D:\yapılmışlar\1051-1575 berkin\20220923_202654.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1162</xmin>
+			<ymin>958</ymin>
+			<xmax>2070</xmax>
+			<ymax>1337</ymax>
+		</bndbox>
+	</object>
+</annotation>

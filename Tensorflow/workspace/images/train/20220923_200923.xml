@@ -1,0 +1,26 @@
+<annotation>
+	<folder>526-1050 zehra</folder>
+	<filename>20220923_200923.jpg</filename>
+	<path>C:\Users\HAKKI\Desktop\526-1050 zehra\20220923_200923.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>659</xmin>
+			<ymin>2086</ymin>
+			<xmax>1555</xmax>
+			<ymax>2267</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1576-2100 yankı</folder>
+	<filename>20220923_203619.jpg</filename>
+	<path>C:\Users\egeba\Desktop\1576-2100 yankı\20220923_203619.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1388</xmin>
+			<ymin>1414</ymin>
+			<xmax>1974</xmax>
+			<ymax>1627</ymax>
+		</bndbox>
+	</object>
+</annotation>
